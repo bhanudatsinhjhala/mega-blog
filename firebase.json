@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "target": "mega-blog-bd-jhala",
+    "site": "mega-blog-bd-jhala",
     "public": "dist",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
