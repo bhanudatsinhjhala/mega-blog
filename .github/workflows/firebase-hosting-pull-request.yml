@@ -19,3 +19,4 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_TAILWIND_PROPS_BD_JHALA }}
           projectId: tailwind-props-bd-jhala
+          target: mega-blog-bd-jhala
