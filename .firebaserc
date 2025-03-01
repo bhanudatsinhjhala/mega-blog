@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "tailwind-props-bd-jhala"
+  },
+  "targets": {
+    "tailwind-props-bd-jhala": {
+      "hosting": {
+        "mega-blog-bd-jhala": [
+          "mega-blog-bdjhala"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
